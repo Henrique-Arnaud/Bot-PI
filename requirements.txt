@@ -1,0 +1,7 @@
+discord.py
+uuid
+pillow
+numpy
+os-sys
+tensorflow
+keras
